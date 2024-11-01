@@ -14,12 +14,14 @@
     <ol>
         <li><a href="https://0arkes.github.io/Yo-Gi-Po/">Primeiro Clique Aqui</a></li>
         <li>Ao iniciar o jogo, o jogador receberá 5 cartas aleatórias, e poderá escolher baseado nos atributos: Pedra, papel e tesoura</li>
-        <table>
+        <br>
+        <table align="center">
             <tr><th>Carta</th><th>Atributo</th></tr>
             <tr><td>Exodia:</td><td>Tesoura</td></tr>
             <tr><td>Mago Negro:</td><td>Pedra</td></tr>
             <tr><td>Dragão Branco de Olhos Azuis</td><td>Papel</td></tr>
         </table>
+        <br>
         <li>Após a escolha do jogador, o oponente (controlado pelo computador) também escolhe uma carta aleatoriamente.</li>
         <li>O vencedor é determinado e exibido na tela</li>
     </ol>
